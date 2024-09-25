@@ -4,4 +4,6 @@ images.sqlite
 result.png
 extract/
 backup/
+.venv/
+__pycache__/
 *.zip
